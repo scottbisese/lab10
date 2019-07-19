@@ -1,0 +1,140 @@
+img#logo{
+    align-content: left;
+    float: left;
+    margin: 5px;
+
+}
+p#delicious{
+    font-size: 140%;
+    font-family: cursive;
+    float: top left;
+}
+p#underDelicious{
+    font-size: 60%;
+    z-index: 100;
+    float:  left;
+    position: relative;
+    top: -30px;
+    left: 50px;
+}
+img#fb{
+    float: top right;
+    position: relative;
+    top: -40px;
+    right: -706px;
+}
+img#twit{
+    float: top right;
+    position: relative;
+    top: -40px;
+    right: -706px;
+}
+img#gp{
+    float: top right;
+    position: relative;
+    top: -40px;
+    right: -706px;
+}
+img#inst{
+    float: top right;
+    position: relative;
+    top: -40px;
+    right: -706px;
+}
+img#flic{
+    float: top right;
+    position: relative;
+    top: -40px;
+    right: -706px;
+}
+img#pint{
+    float: top right;
+    padding: 0px 20px 0px 0px;
+    position: relative;
+    top: -40px;
+    right: -706px;
+}
+img#rss{
+    float: top right;
+    position: relative;
+    top: -40px;
+    right: -706px;
+}
+img#mail{
+    float: top right;
+    position: relative;
+    top: -40px;
+    right: -706px;
+}
+hr {
+    border:none;
+    border: 1px solid #d7d7d7;
+    width: 170%;
+    top: -100px;
+}
+
+.hr { 
+    text-align: center;
+}
+
+.hr img {
+    position: relative;
+    top: -40px;
+    background:white;
+    padding:0 5px;
+    border-image-repeat: repeat;
+}
+
+p#posted{
+    font-size: 33%;
+    color:grey;
+    position: relative;
+    top: -20px;
+}
+img#print{
+    float:right;
+}
+p#print{
+    position:relative ;
+    margin-left:643px;
+    color:grey;
+    font-size: 10px;
+}
+
+image#list{
+    z-index: 1;
+    
+}
+
+ul{
+    list-style:none;
+}
+
+div#rightRecipe{
+    z-index: 2;
+    float:right;
+    position: relative;
+    top:-250px;
+    
+}
+div#leftRecipe{
+    z-index: 2;
+    float:left;
+    position:relative;
+    top:-250px;
+}
+div#recipeWrapper{
+    top:800;
+}
+
+button{
+    background-color: orangered;
+    
+    height: 50px;
+    color: white;
+    float: right;
+}
+body {
+    position: relative;
+    margin: 10%;
+}
